@@ -1,5 +1,5 @@
 # CS466 - Cloud Computing Project
-##Towards a Proactive Lightweight Serverless Edge Cloud for Internet-of-Things Applications
+## Towards a Proactive Lightweight Serverless Edge Cloud for Internet-of-Things Applications
 
 Install Eclipse Mosquitto broker from [here](https://mosquitto.org/download/).
 Clone the repository
